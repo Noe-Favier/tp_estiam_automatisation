@@ -11,11 +11,11 @@ jobs:
       - name: Read secret
         run: echo "Secret value is ${{ secrets.NOE_SECRET }}"
 
-      - name: Simulated deploy
-        run: bash ./deployement.sh
-
       - name: Checkout code
         uses: actions/checkout@v3
+
+      - name: Simulated deploy
+        run: bash deployement.sh
 
       - name: Setup .NET
         uses: actions/setup-dotnet@v3
