@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NoeTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64b957dcce6ec8d66055558c52f222fe1ff6f26a")]
 [assembly: System.Reflection.AssemblyProductAttribute("NoeTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NoeTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

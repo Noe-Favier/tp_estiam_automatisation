@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoeTP1", "NoeTP1.csproj", "{6E03A6D1-8117-470D-8B6E-569B97D9C92F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoeTests", "..\NoeTests\NoeTests.csproj", "{56C50187-E688-42D2-ABD8-EAB2580E10BC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoeTP1", "NoeTP1/NoeTP1.csproj", "{6E03A6D1-8117-470D-8B6E-569B97D9C92F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		{6E03A6D1-8117-470D-8B6E-569B97D9C92F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E03A6D1-8117-470D-8B6E-569B97D9C92F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E03A6D1-8117-470D-8B6E-569B97D9C92F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{56C50187-E688-42D2-ABD8-EAB2580E10BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{56C50187-E688-42D2-ABD8-EAB2580E10BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{56C50187-E688-42D2-ABD8-EAB2580E10BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{56C50187-E688-42D2-ABD8-EAB2580E10BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
