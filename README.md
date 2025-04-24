@@ -10,3 +10,11 @@ les tests permettent d'empêcher les regressions dans le code. Assurant ainsi qu
 
 les cicd permettent d'éxecuter les actions répétitives de manière automatisée. réduisant l'erreur humaine et assurant sécurité grâce aux secrets.
 ça fait aussi gagner beaucoup de temps dans les projets qui ont plusieurs environnements (rec prod ...)
+
+## Screenshots
+
+![les workflows](image.png)
+
+![fil du workflow](image-1.png)
+
+![docker run](image-2.png)
