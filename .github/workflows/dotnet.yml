@@ -8,6 +8,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Read secret
+        run: echo "Secret value is ${{ secrets.NOE_SECRET }}"
+
       - name: Checkout code
         uses: actions/checkout@v3
 
