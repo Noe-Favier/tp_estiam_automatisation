@@ -4,7 +4,7 @@
 
 ### Tests
 
-les tests permettent d'empêcher les regressions dans le code.
+les tests permettent d'empêcher les regressions dans le code. Assurant ainsi que les nouvelles features ne changeront pas le comportement de l'appli de manière inopinée. Par ailleurs ça aide pour les nouveaux arrivants sur un projet de les lire pour comprendre leurs fonctionnement dans un cas simple.
 
 ### CICD
 
